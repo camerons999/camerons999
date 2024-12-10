@@ -27,13 +27,13 @@ This section highlights my expertise, interests, and tools that empower my journ
 
 ## 🌟 Featured Projects
 
-### 🖼 [🌟 VisionaryAI](https://github.com/David-Henderson1/visionary-ai)
+### 🖼 [🌟 VisionaryAI](https://github.com/camerons999/visionary-ai)
 A 🤖 deep learning-based 🖼 image classification system that achieves 🌟 state-of-the-art 📊 accuracy. VisionaryAI is designed to streamline the process of categorizing visual data, with applications in fields like 🩺 healthcare (medical imaging), 🛒 e-commerce (product tagging), and 🌳 environmental monitoring (species identification).
 
 - **Technologies:** 🔥 PyTorch, ⚡ FastAPI, 🐳 Docker
 - **Highlights:** Achieved 🏆 98% 📈 accuracy on 🎯 benchmark datasets
 
-### 📜 [📝 SummarizeNow](https://github.com/David-Henderson1/summarize-now)
+### 📜 [📝 SummarizeNow](https://github.com/camerons999/summarize-now)
 An 🗣️ NLP-powered summarization tool that generates ✂️ concise summaries from 📚 large documents.
 
 - **Technologies:** 🤗 Hugging Face Transformers, ⚗️ Flask, ☁️ AWS Lambda
