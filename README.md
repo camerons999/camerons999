@@ -23,7 +23,7 @@ This section highlights my expertise, interests, and tools that empower my journ
   ![🌍 Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 - 📊 **Projects:** Developing 🤖 intelligent systems for 🔮 prediction, 🛠️ automation, and ⚙️ optimization.
 
----
+--- 
 
 ## 🌟 Featured Projects
 
