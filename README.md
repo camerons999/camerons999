@@ -41,13 +41,5 @@ An 🗣️ NLP-powered summarization tool that generates ✂️ concise summarie
 
 ---
 
-## 📈 Stats
-
-![📊 Cameron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=camerons999&show_icons=true&theme=radical)
-
-![🗂️ Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=camerons999&layout=compact&theme=radical)
-
----
-
 Thank you for visiting my 🌟 profile! Let's build the 🛠️ future with 🤖 AI 🚀.
 
