@@ -35,6 +35,8 @@ An NLP-powered summarization tool that generates concise summaries from large do
 ---  
 
 ## 📊 GitHub Stats  
+
+<div align="center">
 <table>
   <tr>
     <td width="50%">
@@ -45,6 +47,7 @@ An NLP-powered summarization tool that generates concise summaries from large do
     </td>
   </tr>
 </table>
+</div>
 
 ---
 Thank you for visiting my profile! Let's build the future with AI. 🚀  
