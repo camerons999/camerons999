@@ -37,7 +37,7 @@ An NLP-powered summarization tool that generates concise summaries from large do
 ## 📊 GitHub Stats  
 
 ### Overview  
-![Cameron's GitHub Stats](https://github-readme-stats-1-git-main-camerons999s-projects.vercel.app/api?username=camerons999&show_icons=true&theme=transparent&count_private=true&rando3m=132&hide=contribs&hide_border=true)  
+![Cameron's GitHub Stats](https://github-readme-stats-1-camerons999s-projects.vercel.app/api?username=camerons999&count_private=true&random=12367&hide=contribs)  
 
 ### Most Used Languages  
 ![Top Languages](https://github-readme-stats-1-git-main-camerons999s-projects.vercel.app/api/top-langs/?username=camerons999&layout=compact&theme=transparent&show_icons=true&count_private=true&rando3m=132&hide=contribs&hide_border=true)  
