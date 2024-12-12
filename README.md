@@ -36,14 +36,10 @@ An NLP-powered summarization tool that generates concise summaries from large do
 
 ## 📊 GitHub Stats  
 
-<div align="center">
-    <div width="50%">
-      <img src="https://github-readme-stats-1-camerons999s-projects.vercel.app/api?username=camerons999&count_private=true&random=323342343&hide=contribs&theme=transparent&hide_border=true" alt="GitHub Stats" />
-    </div>
-    <div width="50%">
-      <img src="https://github-readme-stats-1-git-main-camerons999s-projects.vercel.app/api/top-langs/?username=camerons999&layout=compact&theme=transparent&show_icons=true&count_private=true&rando3m=132&hide_border=true" alt="Top Languages" />
-    </div>
-</div>
+<center>
+  <img src="https://github-readme-stats-1-camerons999s-projects.vercel.app/api?username=camerons999&count_private=true&random=323342343&hide=contribs&theme=transparent&hide_border=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-1-git-main-camerons999s-projects.vercel.app/api/top-langs/?username=camerons999&layout=compact&theme=transparent&show_icons=true&count_private=true&rando3m=132&hide_border=true" alt="Top Languages" width="49%" />
+</center>
 
 ---
 Thank you for visiting my profile! Let's build the future with AI. 🚀  
