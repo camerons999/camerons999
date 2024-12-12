@@ -38,10 +38,10 @@ An NLP-powered summarization tool that generates concise summaries from large do
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats-1-camerons999s-projects.vercel.app/api?username=camerons999&count_private=true&random=323342343&hide=contribs&theme=transparent" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-1-camerons999s-projects.vercel.app/api?username=camerons999&count_private=true&random=323342343&hide=contribs&theme=transparent&hide_border=true" alt="GitHub Stats" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats-1-git-main-camerons999s-projects.vercel.app/api/top-langs/?username=camerons999&layout=compact&theme=transparent&show_icons=true&count_private=true&rando3m=132&hide=contribs&hide_border=true" alt="Top Languages" />
+      <img src="https://github-readme-stats-1-git-main-camerons999s-projects.vercel.app/api/top-langs/?username=camerons999&layout=compact&theme=transparent&show_icons=true&count_private=true&rando3m=132&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
