@@ -8,13 +8,17 @@ Welcome to my GitHub profile! I'm an AI/ML expert passionate about solving compl
 
 This section highlights my expertise, interests, and tools that empower my journey in AI and ML.  
 
-- **Specialization:** 
+- **Specialization:**
+  
   [![Machine Learning](https://img.shields.io/badge/Machine_Learning-blue?style=for-the-badge&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Machine_learning) [![Deep Learning](https://img.shields.io/badge/Deep_Learning-yellow?style=for-the-badge&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Deep_learning) [![Data Science](https://img.shields.io/badge/Data_Science-green?style=for-the-badge&logo=r&logoColor=white)](https://en.wikipedia.org/wiki/Data_science)
-- **Research Interests:** 
+- **Research Interests:**
+  
     [![Natural Language Processing](https://img.shields.io/badge/Natural_Language_Processing-red?style=for-the-badge&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Natural_language_processing) [![Computer Vision](https://img.shields.io/badge/Computer_Vision-purple?style=for-the-badge&logo=opencv&logoColor=white)](https://en.wikipedia.org/wiki/Computer_vision) [![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-orange?style=for-the-badge&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Reinforcement_learning)
-- **Tech Stack:**  
+- **Tech Stack:**
+  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
-- **Deployment Tools:**  
+- **Deployment Tools:**
+  
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)  
 - **Projects:** Developing intelligent systems for prediction, automation, and optimization.  
 
